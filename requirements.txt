@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sentence-transformers
+chromadb
+groq
+python-dotenv
+pypdf
+
+#pip install -r requirements.txt
